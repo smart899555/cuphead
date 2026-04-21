@@ -739,9 +739,10 @@ body {
 
   .scrollbar-item { min-width: calc(50% - 15px); }
 
-  .grid-list { grid-template-columns: 1fr 1fr; }
-
-
+  .grid-list { 
+    grid-template-columns: 1fr 1fr; 
+    color: #fff;
+  }
 
   /**
    * HERO
